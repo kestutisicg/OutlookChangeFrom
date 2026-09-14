@@ -6,8 +6,8 @@
   <DefaultLocale>en-US</DefaultLocale>
   <DisplayName DefaultValue="OutlookChangeFrom-Test"/>
   <Description DefaultValue="Automatically changes From field."/>
-  <IconUrl DefaultValue="https://www.icgfarma.eu/outlook-addin/assets/icon-64.png"/>
-  <HighResolutionIconUrl DefaultValue="https://www.icgfarma.eu/outlook-addin/assets/icon-128.png"/>
+  <IconUrl DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-64.png"/>
+  <HighResolutionIconUrl DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-128.png"/>
   <SupportUrl DefaultValue="https://www.icgfarma.eu/"/>
   <AppDomains>
     <AppDomain>https://icgfarma.eu</AppDomain>
@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://www.icgfarma.eu/outlook-addin/taskpane.html"/>
+        <SourceLocation DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -73,13 +73,13 @@
     </Hosts>
     <Resources>
       <bt:Images>
-        <bt:Image id="Icon.16x16" DefaultValue="https://www.icgfarma.eu/outlook-addin/assets/icon-16.png"/>
-        <bt:Image id="Icon.32x32" DefaultValue="https://www.icgfarma.eu/outlook-addin/assets/icon-32.png"/>
-        <bt:Image id="Icon.80x80" DefaultValue="https://www.icgfarma.eu/outlook-addin/assets/icon-80.png"/>
+        <bt:Image id="Icon.16x16" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-16.png"/>
+        <bt:Image id="Icon.32x32" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-32.png"/>
+        <bt:Image id="Icon.80x80" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://www.icgfarma.eu/outlook-addin/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://www.icgfarma.eu/outlook-addin/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="ICG Farma Add-in"/>
