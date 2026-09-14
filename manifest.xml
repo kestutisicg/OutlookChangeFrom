@@ -23,7 +23,7 @@
   <FormSettings>
     <Form xsi:type="ItemRead">
       <DesktopSettings>
-        <SourceLocation DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/taskpane.html"/>
+        <SourceLocation DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/src/taskpane/taskpane.html"/>
         <RequestedHeight>250</RequestedHeight>
       </DesktopSettings>
     </Form>
@@ -78,8 +78,8 @@
         <bt:Image id="Icon.80x80" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-80.png"/>
       </bt:Images>
       <bt:Urls>
-        <bt:Url id="Commands.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/commands.html"/>
-        <bt:Url id="Taskpane.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/taskpane.html"/>
+        <bt:Url id="Commands.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/src/commands/commands.html"/>
+        <bt:Url id="Taskpane.Url" DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/src/taskpane/taskpane.html"/>
       </bt:Urls>
       <bt:ShortStrings>
         <bt:String id="GroupLabel" DefaultValue="ICG Farma Add-in"/>
