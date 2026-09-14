@@ -8,9 +8,9 @@
   <Description DefaultValue="Automatically changes From field."/>
   <IconUrl DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-64.png"/>
   <HighResolutionIconUrl DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/assets/icon-128.png"/>
-  <SupportUrl DefaultValue="https://www.icgfarma.eu/"/>
+  <SupportUrl DefaultValue="https://kestutisicg.github.io/OutlookChangeFrom/"/>
   <AppDomains>
-    <AppDomain>https://icgfarma.eu</AppDomain>
+    <AppDomain>https://kestutisicg.github.io/OutlookChangeFrom/</AppDomain>
   </AppDomains>
   <Hosts>
     <Host Name="Mailbox"/>
